@@ -1,3 +1,81 @@
 body{
-    font-family: sans-serif;
+    font-family: 'Inter-Regular',sans-serif;
+    background-color: hsl(0, 0%, 8%);
+    color: white;
+    font-size: 16px;
+}
+
+@font-face {
+    font-family: Inter-Regular;
+    src: url(assets/fonts/static/Inter-Regular.ttf) format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+p{
+    font-size: 14px;
+}
+.profile-container{
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 10px;
+    max-width: 350px;
+    padding: 2rem;
+    margin: 3rem auto;
+    display: block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+
+    
+}
+
+
+img{
+    height: 50px;
+    border-radius: 50%;
+}
+
+h1{
+    font-weight: 700;
+}
+.location{
+    color:hsl(75, 94%, 57%);
+    margin-top: -0.8rem;
+}
+
+.buttons ul {
+    list-style: none;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 0;
+
+}
+.buttons ul li{
+    background-color: hsl(0, 0%, 20%) ;
+    border-radius: 10px;
+    text-align: center;
+    
+    
+    
+}
+.buttons ul li a {
+    list-style: none;
+    color: white;
+    display: block;
+    padding: 0.8rem;
+    text-decoration: none;
+    font-weight: 600;
+
+}
+.buttons ul li:hover {
+    background-color: hsl(75, 94%, 57%);
+}
+
+@media (max-width: 375px) {
+    .profile-container{
+        
+        max-width: 200px;
+    }
+    
 }
