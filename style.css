@@ -103,9 +103,9 @@ li a:hover{
     align-self: stretch;
 }
 
-@media (min-width: 330px){
+@media (max-width: 330px){
     .profile-container{
-        margin: 0;
+        margin: auto 0;
         font-size: 12px;
     }
     
