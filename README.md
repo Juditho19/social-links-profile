@@ -25,8 +25,8 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-![](./screenshot.jpg)
-
+### screenshot
+<img width="1920" height="1086" alt="Screenshot 2025-10-03 at 18-30-22 social links profile" src="https://github.com/user-attachments/assets/b17d3bcb-bb9f-44d4-b9db-b782b4b0e679" />
 
 ### Links
 
