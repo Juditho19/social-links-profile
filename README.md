@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution URL:](https://github.com/Juditho19/social-links-profile.git)
-- Live Site URL: [Live Site URL:](https://your-live-site-url.com)
+- Live Site URL: [Live Site URL:](https://juditho19.github.io/social-links-profile/)
 
 ## My process
 
